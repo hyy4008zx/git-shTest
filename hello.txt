@@ -1,2 +1,7 @@
 hello txt~
+<<<<<<< HEAD
 hello tx
+=======
+hello txt
+hello txt
+>>>>>>> hot-fix
